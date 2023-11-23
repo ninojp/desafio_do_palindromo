@@ -1,4 +1,4 @@
-// FORMA DECLARATIVA DE ESCRVER A FUNÇÃO "Function Declaration"
+// FORMA DECLARATIVA DE ESCREVER A FUNÇÃO "Function Declaration"
 // let palavraInserida = "radar";
 // function palavraPalindromo(){
 //     let palavraDividida = palavraInserida.split("");
